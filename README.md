@@ -25,4 +25,4 @@ Our goal is to leverage cutting-edge generative AI technologies like ChatGPT and
 We invite developers, educators, and students to join us in revolutionizing education. Feel free to open issues, submit pull requests, or contribute ideas through discussions!
 
 ### 📄 **License**
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the [MIT License](https://github.com/NPVarsani/AI-Education-Revolution?tab=MIT-1-ov-file).
